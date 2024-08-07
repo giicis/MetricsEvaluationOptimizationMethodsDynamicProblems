@@ -3,7 +3,7 @@ Metrics for the Evaluation of Optimization Methods in Dynamic Problems: applicat
 
 # Authors: 
 - Prado, Lucas Martín
-- Grandi, Tobias
+- Grandi, Tobías
 - Casanova, Carlos
 
 
